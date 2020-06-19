@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Plotter", "Plotter\Plotter.vbproj", "{239CA433-0DB4-4C23-9D74-12596F7DC03E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rechner", "LKMathLib\Rechner.vbproj", "{78BAFA0F-2FB8-4F2F-880F-90B6091E48C7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pi-Calculator", "Pi-Calculator\Pi-Calculator.vbproj", "{961BCCF7-C8D7-4C75-A583-B586BE2A50EF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pytagoras", "Pytagoras\Pytagoras.vbproj", "{CF0CCA17-EE81-4810-BCFC-6731DB9F58AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239CA433-0DB4-4C23-9D74-12596F7DC03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239CA433-0DB4-4C23-9D74-12596F7DC03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239CA433-0DB4-4C23-9D74-12596F7DC03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239CA433-0DB4-4C23-9D74-12596F7DC03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BAFA0F-2FB8-4F2F-880F-90B6091E48C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BAFA0F-2FB8-4F2F-880F-90B6091E48C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BAFA0F-2FB8-4F2F-880F-90B6091E48C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BAFA0F-2FB8-4F2F-880F-90B6091E48C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961BCCF7-C8D7-4C75-A583-B586BE2A50EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961BCCF7-C8D7-4C75-A583-B586BE2A50EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961BCCF7-C8D7-4C75-A583-B586BE2A50EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961BCCF7-C8D7-4C75-A583-B586BE2A50EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0CCA17-EE81-4810-BCFC-6731DB9F58AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0CCA17-EE81-4810-BCFC-6731DB9F58AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0CCA17-EE81-4810-BCFC-6731DB9F58AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0CCA17-EE81-4810-BCFC-6731DB9F58AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC32215-1D6B-441C-9B83-3F4F2ADC1900}
+	EndGlobalSection
+EndGlobal
